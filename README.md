@@ -1,0 +1,1 @@
+# cursor-graphrag-memory
